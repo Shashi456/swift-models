@@ -1,0 +1,2 @@
+add_subdirectory(ImageClassification)
+add_subdirectory(Text)
